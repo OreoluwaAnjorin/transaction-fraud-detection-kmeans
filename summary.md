@@ -111,7 +111,7 @@ This project demonstrates proficiency in:
 - Risk assessment methodologies
 - Business intelligence reporting
 
-## 🚀 Future Development Roadmap
+## Future Development Roadmap
 
 ### Phase 1: Enhanced Features
 - Multi-dimensional feature expansion (merchant, location, frequency)
