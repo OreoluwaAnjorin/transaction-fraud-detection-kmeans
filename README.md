@@ -5,7 +5,7 @@
 [![pandas](https://img.shields.io/badge/pandas-latest-green.svg)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📊 Project Overview
+##  Project Overview
 
 This project implements an unsupervised machine learning approach to detect anomalous financial transactions using K-Means clustering algorithm. The system analyzes transaction patterns based on amount and timing to identify potentially fraudulent activities in financial data.
 
@@ -16,7 +16,7 @@ This project implements an unsupervised machine learning approach to detect anom
 - Comprehensive statistical analysis and reporting
 - Synthetic dataset for educational purposes
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Implement K-Means clustering for financial anomaly detection
 - Develop a robust threshold-based classification system
@@ -24,7 +24,7 @@ This project implements an unsupervised machine learning approach to detect anom
 - Create actionable insights for fraud detection
 - Demonstrate unsupervised learning techniques in financial context
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming Languages
 - **Python 3.8+** - Core programming language
@@ -42,7 +42,7 @@ This project implements an unsupervised machine learning approach to detect anom
 - **Jupyter Notebook** / **Python IDE**
 - **CSV** - Data storage format
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 financial-anomaly-detection/
@@ -65,7 +65,7 @@ financial-anomaly-detection/
 └── requirements.txt                   # Python dependencies
 ```
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -110,7 +110,7 @@ python src/boundary_handling.py
 - **Time Range:** 20.41 - 500.00 time units
 - **Purpose:** Educational demonstration (no real financial data)
 
-## 🔍 Methodology
+##  Methodology
 
 ### Algorithm Workflow
 
@@ -140,7 +140,7 @@ python src/boundary_handling.py
 - **Features:** Amount, Time (standardized)
 - **Random State:** 42 (for reproducibility)
 
-## 📈 Results Summary
+##  Results Summary
 
 ### Detection Performance
 - **Total Transactions:** 100
@@ -161,7 +161,7 @@ python src/boundary_handling.py
 | 99 | 1,000.00 | 450.00 | 2,127.4% of threshold |
 | 98 | 700.00 | 400.00 | 1,752.5% of threshold |
 
-## 🎓 Educational Value
+##  Educational Value
 
 This project demonstrates:
 - **Unsupervised Learning:** K-Means clustering application
@@ -171,14 +171,14 @@ This project demonstrates:
 - **Data Science Workflow:** End-to-end analysis pipeline
 - **Financial Domain Knowledge:** Fraud detection patterns
 
-## 🚫 Limitations
+## Limitations
 
 1. **Feature Limitation:** Only uses Amount and Time features
 2. **Algorithm Constraints:** K-Means assumes spherical clusters
 3. **Static Threshold:** Fixed 95th percentile threshold
 4. **Synthetic Data:** Results based on artificially generated data
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] **Feature Engineering:** Add merchant category, location, frequency
 - [ ] **Hybrid Algorithms:** Combine with Isolation Forest or One-Class SVM
@@ -187,7 +187,7 @@ This project demonstrates:
 - [ ] **Advanced Visualization:** Interactive dashboards and plots
 - [ ] **Model Evaluation:** ROC curves, precision-recall analysis
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -201,7 +201,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 👤 Author
+## Author
 
 **Oreoluwa Anjorin**
 - Portfolio Project - Financial Anomaly Detection
