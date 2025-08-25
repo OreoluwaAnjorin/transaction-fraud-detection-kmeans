@@ -201,16 +201,12 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Author
+##  Author
 
 **Oreoluwa Anjorin**
-- Portfolio Project - Financial Anomaly Detection
-- Data Science & Machine Learning
-
-## 🔗 Related Projects
-
-- [Other ML Projects](https://github.com/yourusername)
-- [Data Science Portfolio](https://github.com/yourusername/portfolio)
+- 📧 [anjorinoreoluwa19@gmail.com](mailto:anjorinoreoluwa19@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oreoluwa-anjorin-69a4441aa/)
+- 🐙 [@OreoluwaAnjorin](https://github.com/OreoluwaAnjorin)
 
 ## ⚠️ Disclaimer
 
